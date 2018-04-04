@@ -7,24 +7,24 @@ const wordList = [
 	},
 	{
 		"word":"starbucks",
-		"clue":"a company"
+		"clue":"a corporation"
 	},
 	{
 		"word":"macaroni",
-		"clue":"a kind of food"
+		"clue":"a type of pasta"
 	},
 	{
 		"word":"washington",
-		"clue":"a place"
+		"clue":"a state"
 	},
 	{
 		"word":"turtle",
-		"clue":"a creature"
+		"clue":"a reptile"
 	},
 	{
-		"word":"guillotine",
-		"clue":"a machine"
-	}
+		"word":"engine",
+		"clue":"a mechanical machine"
+	},
 	
 ];
 
